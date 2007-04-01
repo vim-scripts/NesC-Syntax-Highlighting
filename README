@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1847
+
+nesC is an extension to the C programming language designed to embody the structuring concepts and execution model of TinyOS. TinyOS is an event-driven operating system designed for sensor network nodes that have very limited resources.
+This script is the Syntax Highlighting for the programming files written in NesC.
+Detailed can found from here: http://www.amingsite.info/aming/archives/?arch=vi_nesc
