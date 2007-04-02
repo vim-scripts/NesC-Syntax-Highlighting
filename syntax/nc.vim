@@ -33,7 +33,7 @@ syn match cppCast		"\<\(const\|static\|dynamic\|reinterpret\)_cast\s*$"
 syn keyword cppStorageClass	mutable
 syn keyword cppStructure	class typename template namespace
 syn keyword cppNumber		NPOS
-" syn keyword cppBoolean		true false
+syn keyword cppBoolean		true false
 
 "Nesc extensions
 syn keyword ncFunction		command event task interface
